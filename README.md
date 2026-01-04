@@ -1,4 +1,4 @@
-# Spotify Lyric Search 🎵
+# Spotify Lyric Search 
 
 This project identifies the **song title and artist** from a given snippet of lyrics.
 
@@ -14,7 +14,3 @@ This project identifies the **song title and artist** from a given snippet of ly
 - Similarity-based prediction
 - Accuracy evaluation
 
-## How to Run
-1. Clone repo
-2. Install requirements
-3. Run Jupyter Notebook
